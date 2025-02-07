@@ -1,4 +1,4 @@
-Drivetrain CAN IDs     |  System CAN IDs
+Drivetrain CAN IDs     |||||||  System CAN IDs
 |Device|ID|
 |----|----|
 | Pigeon | 10 |
