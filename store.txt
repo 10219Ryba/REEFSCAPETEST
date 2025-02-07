@@ -1,5 +1,5 @@
-Drivetrain CAN IDs          |       
-|Device|ID|                 |
+Drivetrain CAN IDs        
+|Device|ID|
 |----|----|
 | Pigeon | 10 |
 | **Front Left** | |
@@ -18,3 +18,14 @@ Drivetrain CAN IDs          |
 | Drive | 13 |
 | Steer | 12 |
 | Encoder | 11 |
+
+System CAN IDs
+|Device|ID| 
+|----|----|
+| PDH | 1 |
+| Leader | 2 | 
+| Follower | 3 | 
+| Coral Pivot | 4 |
+| Coral Rollers | 5 | 
+| Algae Pivot | 6 |
+| Algae Rollers | 7 |
