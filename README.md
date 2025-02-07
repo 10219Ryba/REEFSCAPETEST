@@ -1,5 +1,5 @@
 ## Drivetrain CAN IDs:
-| Device | ID |         
+|Device|ID|         
 |----|----|             
 | Pigeon | 10 |         
 | **Front Left** | |   
@@ -20,7 +20,7 @@
 | Encoder | 11 | 
 
 ## System CAN IDs: 
-| Device | ID | 
+|Device|ID| 
 |----|----|
 | PDH | 1 |
 | Leader | 2 | 
