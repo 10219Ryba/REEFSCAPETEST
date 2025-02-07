@@ -1,6 +1,6 @@
-## Drivetrain CAN IDs:
-|Device|ID|         
-|----|----|             
+## Drivetrain CAN IDs
+|Device|ID|            
+|----|----|              
 | Pigeon | 10 |         
 | **Front Left** | |   
 | Drive | 43 | 
@@ -19,7 +19,7 @@
 | Steer | 12 | 
 | Encoder | 11 | 
 
-## System CAN IDs: 
+## System CAN IDs
 |Device|ID| 
 |----|----|
 | PDH | 1 |
