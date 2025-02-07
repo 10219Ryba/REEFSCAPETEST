@@ -2,7 +2,7 @@
 
 | **Drivetrain CAN IDs** | ID  | | **System CAN IDs** | ID  |
 |----------------------|----|---|------------------|----|
-| Pigeon              | 10 | | Other System      | XX |
+| Pigeon              | 10 | | PDH      | 1 |
 | **Front Left**      |    | |                  |    |
 | Drive              | 43 | |                  |    |
 | Steer              | 42 | |                  |    |
