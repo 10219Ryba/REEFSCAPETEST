@@ -1,8 +1,8 @@
-## Drivetrain CAN IDs:
-|Device|ID|
-|----|----|
-| Pigeon | 10 |
-| **Front Left** | |
+## Drivetrain CAN IDs:  ## Elevator CAN IDs:
+| Device | ID |         | Device | ID |
+|----|----|             |----|----|
+| Pigeon | 10 |         | Leader | 2 |
+| **Front Left** | |    | Follower | 3 |
 | Drive | 43 | 
 | Steer | 42 |
 | Encoder | 41 |
