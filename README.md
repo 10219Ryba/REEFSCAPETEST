@@ -1,5 +1,5 @@
-Drivetrain CAN IDs          |       
-|Device|ID|                 |
+Drivetrain CAN IDs     System CAN IDs
+|Device|ID|
 |----|----|
 | Pigeon | 10 |
 | **Front Left** | |
