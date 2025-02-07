@@ -19,8 +19,13 @@
 | Steer | 12 | 
 | Encoder | 11 | 
 
-## Elevator CAN IDs: 
+## System CAN IDs: 
 | Device | ID | 
 |----|----|
+| PDH | 1 |
 | Leader | 2 | 
 | Follower | 3 | 
+| Coral Pivot | 4 |
+| Coral Rollers | 5 | 
+| Algae Pivot | 6 |
+| Algae Rollers | 7 |
